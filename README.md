@@ -1,4 +1,5 @@
-Hi there! I’m Nima
+Hi there! 
+I’m Nima
 I’m a passionate programmer focused on machine learning and data-driven projects. I love exploring new ML libraries and technologies, diving into innovative solutions, and constantly pushing the boundaries of what’s possible with code.
 
 I work on various machine learning projects, tackling challenges and creating impactful solutions.
