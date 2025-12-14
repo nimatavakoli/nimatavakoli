@@ -1,8 +1,23 @@
-Hi there! 
-I’m Nima
-I’m a passionate programmer focused on machine learning and data-driven projects. I love exploring new ML libraries and technologies, diving into innovative solutions, and constantly pushing the boundaries of what’s possible with code.
+# Hi, I'm Nima 👋
 
-I work on various machine learning projects, tackling challenges and creating impactful solutions.
-Experienced with Python, Pandas, Numpy, scikit-learn, and more. I’m always eager to pick up new tools and libraries.
-Beyond ML, I’m fascinated by AI applications, data science, and the intersection of technology with real-world problems.
-I’m here to collaborate, learn, and contribute to exciting open-source projects! Let’s connect and create something amazing together.
+I'm a Computer Science B.Sc. graduate with a strong focus on **machine learning**, **Python-based data analysis**, and **EV powertrain engineering**.
+
+- ⚙️ Working on **high-voltage battery (HVB)** and **e-motor** production lines  
+  (Mercedes-Benz, Audi) – layouts, test concepts & process documentation
+- 🤖 Interested in **battery aging modeling**, **predictive maintenance**  
+  and **data-driven process optimization** in manufacturing
+- 🐍 Tech stack: **Python** (NumPy, pandas, scikit-learn, Matplotlib),  
+- 🔬 Recent project: ML on **NASA lithium-ion battery aging dataset**  
+  (SoH estimation from time-series signals)
+- 🧠 Also into computer vision (e.g. edge detection projects) and applied AI in industry
+
+## What I'm working on
+
+- Exploring ideas at the intersection of **AI + EV manufacturing**
+
+## How to reach me
+
+- https://nimatavakoli.github.io/
+
+
+If you're working on EVs, batteries, or industrial ML and want to exchange ideas, feel free to reach out or open an issue in one of my repos.
