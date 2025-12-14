@@ -7,8 +7,6 @@ I'm a Computer Science B.Sc. graduate with a strong focus on **machine learning*
 - 🤖 Interested in **battery aging modeling**, **predictive maintenance**  
   and **data-driven process optimization** in manufacturing
 - 🐍 Tech stack: **Python** (NumPy, pandas, scikit-learn, Matplotlib),  
-- 🔬 Recent project: ML on **NASA lithium-ion battery aging dataset**  
-  (SoH estimation from time-series signals)
 - 🧠 Also into computer vision (e.g. edge detection projects) and applied AI in industry
 
 ## What I'm working on
