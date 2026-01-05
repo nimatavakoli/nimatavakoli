@@ -2,7 +2,7 @@
 
 I'm a Computer Science B.Sc. graduate with a strong focus on **machine learning**, **Python-based data analysis**, and **EV powertrain engineering**.
 
-- ⚙️ Working on **high-voltage battery (HVB)** and **e-motor** production lines  
+- ⚙️ Working on **e-motor** production lines and **high-voltage battery (HVB)**    
   (Mercedes-Benz, Audi) – layouts, test concepts & process documentation
 - 🤖 Interested in **battery aging modeling**, **predictive maintenance**  
   and **data-driven process optimization** in manufacturing
